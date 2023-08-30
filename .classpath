@@ -20,5 +20,6 @@
 			<attribute name="javadoc_location" value="http://junit.org/junit4/javadoc/latest/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="empresa"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
